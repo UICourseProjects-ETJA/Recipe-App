@@ -28,3 +28,4 @@ The app was built as part of a Ui Course assessment, that focuses on **state man
 - **JavaScript (ES6+)**
 - **CSS**
 - React Hooks (`useState`)
+
