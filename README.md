@@ -1,4 +1,5 @@
 # Recipe CRUD App 🍽️
+<img width="1440" height="548" alt="Screenshot 2026-02-04 at 9 37 31 AM" src="https://github.com/user-attachments/assets/59441be4-d68d-42bd-b531-1209c60d683e" />
 
 This project is a simple **recipe-tracking CRUD application** built with **React**. It allows users to create, view, and delete recipes using local component state.
 
@@ -28,4 +29,8 @@ The app was built as part of a Ui Course assessment, that focuses on **state man
 - **JavaScript (ES6+)**
 - **CSS**
 - React Hooks (`useState`)
+
+---
+## How to run
+`npm run dev`
 
